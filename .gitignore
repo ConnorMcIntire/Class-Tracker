@@ -1,0 +1,15 @@
+# Maven target directory
+target/
+
+# IDE files (you can add your IDE files like IntelliJ or VS Code here)
+.idea/
+.vscode/
+*.iml
+
+# JaCoCo and Checkstyle generated files
+target/jacoco.exec
+target/coverage-reports/
+target/checkstyle/
+
+# Other files you might not want to commit
+*.log
